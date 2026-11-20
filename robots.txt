@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://suomi.teduza.com/sitemap.xml
